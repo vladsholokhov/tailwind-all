@@ -1,0 +1,12 @@
+{
+  "name": "tailwind-all",
+  "version": "1.0.0",
+  "dependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.17"
+  },
+  "devDependencies": {
+    "tailwind.macro": "^0.5.10"
+  }
+}

@@ -1,0 +1,14 @@
+<p class=""></p>
+
+<p class=""></p>
+
+
+{% import './product-form.js' %}
+{% import './product-form.scss' %}
+
+<product-form>
+    <div class="flex"></div>
+    {% form 'product', product, class:'product-form' %}
+        ...
+    {% endform %}
+</product-form>
