@@ -1,6 +1,14 @@
-body
+
+@media screen(sm) {
+  @apply bg-amber-50 text-black
   @apply bg-amber-50 text-black
   @apply border border-gray-300 rounded;
+}
+
+
+@media (min-width: 640px) {
+  /* ... */
+}
 
 @tailwind base;
 @tailwind components;

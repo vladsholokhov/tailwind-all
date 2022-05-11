@@ -1,0 +1,9 @@
+
+@media screen(sm) {
+    @apply bg-amber-50 text-black
+}
+
+
+@media (min-width: 640px) {
+    /* ... */
+}
