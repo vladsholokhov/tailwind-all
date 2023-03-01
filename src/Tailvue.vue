@@ -1,3 +1,3 @@
 <template>
-  <div class="flex"></div>
+  <div class="mt-4 mt-6 "></div>
 </template>

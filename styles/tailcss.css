@@ -1,14 +1,13 @@
-
 /*@media screen(sm) {*/
 /*    @apply bg-amber-50 text-black*/
 /*}*/
+
+
 
 div {
     background-color: theme('color');
 }
 
-
 @media (min-width: 640px) {
     @apply bg-amber-100 text-black -backdrop-hue-rotate-30;
-    @apply
 }
